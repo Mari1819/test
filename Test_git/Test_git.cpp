@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 #include "stdio.h"
-
+//master
 int main()
 {
 	int a, b;
